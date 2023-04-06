@@ -28,3 +28,12 @@ Sign language datasets for hand gesture recognition for alphabets. Following ges
 [Main Link](https://ieeexplore.ieee.org/document/9528192)
 
 [PDF version](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9528192)
+
+
+# Citation
+
+M. M. Islam, S. Siddiqua and J. Afnan, "Real time Hand Gesture Recognition using different algorithms based on American Sign Language," 2017 IEEE International Conference on Imaging, Vision & Pattern Recognition (icIVPR), Dhaka, Bangladesh, 2017, pp. 1-6, doi: 10.1109/ICIVPR.2017.7890854.
+
+Malima, Ozgur and Cetin, "A Fast Algorithm for Vision-Based Hand Gesture Recognition for Robot Control," 2006 IEEE 14th Signal Processing and Communications Applications, Antalya, Turkey, 2006, pp. 1-4, doi: 10.1109/SIU.2006.1659822.
+
+J. Hossain Gourob, S. Raxit and A. Hasan, "A Robotic Hand: Controlled With Vision Based Hand Gesture Recognition System," 2021 International Conference on Automation, Control and Mechatronics for Industry 4.0 (ACMI), Rajshahi, Bangladesh, 2021, pp. 1-4, doi: 10.1109/ACMI53878.2021.9528192.
