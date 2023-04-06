@@ -9,5 +9,5 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1659822
 
 A Robotic Hand: Controlled With Vision Based Hand Gesture Recognition System
 
-https://ieeexplore.ieee.org/document/9528192
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9528192
 
