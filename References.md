@@ -7,6 +7,7 @@ The original MNIST image dataset of handwritten digits is a popular benchmark fo
 
 ### Potential dataset 2
 [Link](https://www.kaggle.com/datasets/muhammadkhalid/sign-language-for-alphabets)
+
 Sign language datasets for hand gesture recognition for alphabets. Following gestures can be detected using this datasets
 
 
