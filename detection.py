@@ -12,9 +12,7 @@ classifier = Classifier("ModelV1.00/keras_model.h5","ModelV1.00/labels.txt")
 offset = 20
 imgSize = 300
 
-# labels = ["A","B","C","D","E","F","G","H","I","K","L","M","N","P","Q","R","S","T","U","V","W","X","Y"]
-labels = ["A","B","C","G","Y","L"]
-# labels = open("Model/labels.txt", 'r').readlines()
+labels = ["A","B","C","L","Y"]
 
 try:
     while True:
