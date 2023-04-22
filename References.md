@@ -10,6 +10,8 @@ The original MNIST image dataset of handwritten digits is a popular benchmark fo
 
 Sign language datasets for hand gesture recognition for alphabets. Following gestures can be detected using this datasets
 
+# Training
+https://www.tensorflow.org/guide/keras/save_and_serialize
 
 # Articles
 
